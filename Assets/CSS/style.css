@@ -86,7 +86,7 @@ p {
 }
 
 #logo {
-	margin-left: 50px;
+	margin-left: 60px;
 	margin-top: 30px;
 }
 
@@ -143,71 +143,11 @@ p {
 	margin-right: 40px;
 }
 
-#hangman {
-	margin-left: 30px;
 
-}
- #hangtitle {
- 	position: absolute;
- 	background-color: #4aaaa5;
-	color: #FFFFFF;
-	font-size: 28px;
-	padding: 10px 71px;
-    margin-top: 125px;
- }
-
-#rpg {
-	margin-left: 350px;
-    margin-bottom: 275px;
-}
-
- #rpgtitle {
- 	position: absolute;
- 	background-color: #4aaaa5;
-	color: #FFFFFF;
-	font-size: 28px;
-	padding: 10px 61px;
-    margin-top: 125px;
- }
-
-#trivia {
-	margin-left: 30px;
-}
-
- #triviatitle {
- 	position: absolute;
- 	background-color: #4aaaa5;
-	color: #FFFFFF;
-	font-size: 28px;
-    padding: 10px 55px;
-    margin-top: 125px;
- }
-
-#rutgers {
-	margin-left: 350px;
-}
-
-#rutgertitle {
- 	position: absolute;
- 	background-color: #4aaaa5;
-	color: #FFFFFF;
-	font-size: 28px;
-	padding: 10px 11px;
-    margin-top: 125px;
- }
-
-#rock {
-	margin-left: 30px;
-    margin-top: 525px;
-}
-
- #rocktitle {
- 	position: absolute;
- 	background-color: #4aaaa5;
-	color: #FFFFFF;
-	font-size: 28px;
-	padding: 10px 11px;
-    margin-top: 125px;
+ #projects {
+ 	margin-left: 25px;
+ 	font-family: arial;
+ 	color: #777777;
  }
 
  a:hover {
