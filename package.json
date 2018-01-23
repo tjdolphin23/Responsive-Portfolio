@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "tom dolphin portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjdolphin23/Responsive-Portfolio.git"
+  },
+  "author": "tom dolphin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjdolphin23/Responsive-Portfolio/issues"
+  },
+  "homepage": "https://github.com/tjdolphin23/Responsive-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
